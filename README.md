@@ -1,7 +1,7 @@
 # FileDrift
 FileDrift is a lightweight and user-friendly PHP-based file upload system that enables users to easily upload various types of files to your server. With configurable settings for maximum file sizes, allowed file types, and optional password protection, FileDrift provides a secure and efficient solution for file sharing and storage.
 
-![image](https://github.com/Axmaw98/FileDrift/assets/90964275/b5092ab3-fa4c-41e4-aa40-3b6586ccdf18)
+![image](https://i.ibb.co/cgkZFGM/File-Drift-Screenshot.png)
 
 
 ## Table of Contents
